@@ -25,7 +25,7 @@ SECRET_KEY = 'r^$!49p$9ht7*1qu1ix!3*c$egwqn3h1bo5*&ka84@jn&x67jh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['doccure.glitch.me']
 
 
 # Application definition
